@@ -6,7 +6,7 @@ I AM MERN STACK ENGINEER
 
 with a passion for developing high-quality web applications. With a deep understanding of JavaScript, ReactJS, NodeJS, and MongoDB, I am able to design and implement scalable, secure, and high-performance solutions. My expertise in agile methodologies and collaboration enables me to work effectively with cross-functional teams to deliver projects on time and within budget. I am committed to staying up-to-date with the latest technologies and trends in the field, and I am always seeking new challenges to grow my skills and knowledge.
 
-* 🌍  I'm based in Pakistan, Lahore
+* 🌍  I'm based in Pakistan, Islamabad
 * ✉️  You can contact me at [faadsardar123@gmail.com](mailto:faadsardar123@gmail.com)
 
 <a href="https://www.x.com/muhammadfaad50" target="_blank" rel="noreferrer"><img
